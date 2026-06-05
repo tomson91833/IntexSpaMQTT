@@ -51,7 +51,7 @@ Die Brücke läuft als kleiner Docker-Container; IP-Symcon ist selbst der MQTT-B
 
 1. In IP-Symcon: **Kern Instanzen → Modules → „+"** und diese Repo-URL eintragen:
    ```
-   https://github.com/tomson9183/IPSymcon-IntexSpaMQTT
+   https://github.com/tomson91833/IPSymcon-IntexSpaMQTT
    ```
 2. **MQTT Server**-Instanz anlegen (Server-Socket, Port 1883).
 3. **Brücke** (`bridge.py`) mit deinen Spa-Daten füllen und als Container starten.
