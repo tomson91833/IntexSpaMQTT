@@ -58,8 +58,7 @@ Die Brücke läuft als kleiner Docker-Container; IP-Symcon ist selbst der MQTT-B
 4. Instanz **„IntexSpaMQTT"** anlegen, mit dem MQTT-Server verbinden, Basis-Thema `intexspa`.
 
 > 📘 **Die komplette, bebilderte Schritt-für-Schritt-Anleitung** (von der App über das
-> Auslesen des Local Keys bis zum Energie-Manager und Push) liegt im Ordner
-> [`anleitungen/`](anleitungen) bzw. als PDF im Release.
+> Auslesen des Local Keys bis zum Energie-Manager und Push) liegt im Symcon forum-Beitrag bzw. als PDF im Release.
 
 ---
 
